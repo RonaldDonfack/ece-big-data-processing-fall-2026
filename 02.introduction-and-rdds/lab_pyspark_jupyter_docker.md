@@ -90,3 +90,6 @@ Go through the notebook and follow the instructions in the cells:
 2. Look at the given code and try to understand what it does.
 
 - provide line by line code comments
+
+3. Write a simple timing function for the exercise in part 1. Change the order of the chained operations to get different timings and try to find the optimal ordering.
+4. Download the French version of the text from project guttenberg. Write a query to compare the word counts between the two versions.
