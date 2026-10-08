@@ -33,7 +33,7 @@ The project will be submitted via a GitHub repo including two primary Markdown f
 
 ### Data preparation 
 
-- For each column of each table in the IMDB dataset, calculate the percentage of nulls, missing, or empty records.
+- For each column of each table in the [IMDB dataset](https://data.imdb.com/non-commercial-datasets/), calculate the percentage of nulls, missing, or empty records.
 - Which five columns across the entire dataset have the highest percentage of null values?
 - Identify other data quality issues for the dataset such as principals who died before they were born, foreign keys with missing parent records, etc. 
 - Design and implement a way to handle these values.
